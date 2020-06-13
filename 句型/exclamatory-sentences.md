@@ -1,0 +1,133 @@
+
+感叹句有多种表现形式，有时一个单词、短语或一个词组也可成为感叹句，如:
+
+- Hello! (喂!)
+- The design and the colours! (多美丽的图案和色彩啊!)
+
+有时陈述句、疑问句以及祈使句也可以转化成感叹句，如:
+
+- He’s such a nice boy! (多好的孩子啊!)
+- How can you be so silly! (你怎么这么傻!)
+- Don’t go with us! (别跟我们一起去!)
+
+尽管感叹句的表现形式多种多样，但主要的表现形式只有两种，即**what**和**how**引导的感叹句：  
+- what 修饰名词  
+- how 修饰形容词、副词或者动词  
+
+# 1. 由感叹词**what**引导的感叹句
+
+What修饰名词或名词短语，有以下两种形式： 　　
+
+- `What + a(an) + (形容词) + 单数可数名词 + 主语 + 谓语！`  
+- 或者: `What + 名词词组 + 主语 + 谓语！`  
+
+What a fine day it is! 　　
+
+- `What + (形容词）+ (可数名词复数 或 不可数名词) + 主语 + 谓语！` 
+
+What kind women they are!
+What nice music it is! 　　
+
+# 2. 由How引导的感叹句
+
+how用来修饰形容词、副词或动词。  
+
+其结构是：`How + (形容词 或 副词 或 动词）+ 主语 + 谓语！`  
+
+- How hard the workers are working! 　　
+- How clever the girl is! 　　
+- How quickly the boy is writing! 　　
+
+注意：当how修饰动词时，动词不跟着感叹词提到主语之前。 　　
+
+How fast the runner runs! 　　
+
+what与how引导的感叹句，一般情况下可以相互转换，转换后意义不变，如：
+
+- What an interesting story it is!  
+- = How interesting the story is! 　　  
+
+- what a beautiful building it is!  
+- = How beautiful the building is! 　　
+
+在口语中，感叹句的主语和谓语常常省略。如： 　　
+
+- What a nice present!（省略it is）   　　
+- How disappointed!（省略she is或其它可作本句主、谓的词语）  
+
+# 3. 感叹句多以how或what引导，但在口语中，还有一些特殊的感叹句表达形式
+
+## 3.1 以副词`here, there, in`开头的感叹句
+
+- Here comes the bus! 公共汽车来了！  
+- There they are! 他们在那儿呢！  
+
+## 3.2 以疑问词who开头，表示惊奇
+
+- Who else will read such a book! 谁还会读这样的书！  
+
+## 3.3 以情态动词may开头，表示愿望
+
+- May you both be happy! 祝二位幸福!
+- May you succeed! 祝你成功！
+
+## 3.4 否定疑问句用作感叹句时，它的意义是肯定的；但肯定疑问句用作感叹句在美国英语中比较常见。
+
+- Aren’t they sweet! 他们多可爱啊！  
+- Am I hungry! 我饿极了！  
+
+## 3.5 一些短语用作感叹句
+
+- Dear me! 哎呀！  
+- My goodness! 嗳呀！  
+- None of your nonsense! 不要胡说了！  
+
+## 3.6 一些作表语的成分用作感叹句
+
+- Just my luck! 又倒霉了！
+- Sorry, my mistake! 对不起，是我的错！
+
+# 4. 感叹句如何变为间接引语
+
+直接引语是感叹句时，若要变作间接引语，通常用引述动词`tell, exclaim`等
+
+- “What a brave boy you are!” she told him. “你是一个多么勇敢的男孩子啊!” 她告诉他说  
+- She told him what a brave boy he was. 她告诉他说他是一个多么勇敢的男孩子。  
+
+- He said, “Hurrah! My friend is come.” 他说道，“乌拉!我的朋友来了。”  
+- He exclaimed with delight that his friend had come. 他欢呼他的朋友来了。(引述动词用exclaim, 并加状语with delight)  
+
+当然，也可用其他一些引述动词，如：
+
+- He said, “Alas! How foolish I have been!” 他说道，“哎，我多傻啊!”
+- He confessed with regret that he had been very foolish. 他痛悔地承认他太傻了。(引述动词用confess加状语with regret) 
+
+- “What a crime he has committed!” she said. “他犯了多大的罪啊!” 她说道。
+- She didn’t know what a crime he had committed. 她不知道他犯了那么大的罪。(引述动词用know的否定式)
+
+有时也可以不用引述动词，如：
+
+- “How fast she can run!” he says. “她竞能跑得那样快!” 他说道。  
+- It’s incredible how fast she can run. 她跑得如此之快令人不可置信。(用it’s incredible表示说话人的神情)   
+
+- He said to them all, “Good-bye, my friends!” 他对他们说道，“再见，我的朋友们!”  
+- He bade good-bye to all his friends. 他向他的所有朋友道别。(这里连间接引语也没有了)  
+
+# 5. 关于感叹句 what 和 how 的区别
+
+- 由`what`引导的感叹句：`what`意为`多么`用作**定语**，修饰名词（被强调部分），  
+    - 单数可数名词前要加不定冠词`a/an`  
+    - 复数可数名词或不可数名词前**不用冠词**  
+    - 这类句子的结构形式是：`what + (a/an) + adj. + n. + 主语 + 谓语 + (it is)`, 如： `What a clever girl she is! 多么聪明的姑娘呀！`
+
+- 由`how`引导的感叹句：`how`意为`多么`，用作状语，修饰形容词或副词（被强调部分）  
+    - 如果修饰形容词，则句中的谓语动词用系动词；  
+    - 如果how修饰副词，则句中的谓语动词用行为动词，  
+    - 这类句子的结构形式是：`How + (adj. / adv. / v.）+ 主语 + 谓语 + (it is).`，如：`How cold it is today! 今天多么冷呀！`
+
+- 在表示同一意义时，英语感叹既可用`what`引导，也可用`how`引导，如：  
+    - What a hot day it is!  
+    - How hot the day is !   
+
+- 感叹句在表示激动强烈的感情时，口语中常常采用省略句，其后面的主语和谓语往往略去不讲，如：  
+    - `What a fine day! 多么晴朗的天呀！`
