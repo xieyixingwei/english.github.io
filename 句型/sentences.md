@@ -1,10 +1,10 @@
 # 句子句式
 
-+ [简单句](./simple-sentences.md)
-+ [陈述句](./declarative-sentences.md)
-+ [疑问句](./interrogative-sentences.md)
-+ [祈使句](./imperative-sentences.md)
-+ [感叹句](./exclamatory-sentences.md)
++ [简单句](简单句.md)
++ [陈述句](declarative-sentences.md)
++ [疑问句](疑问句.md)
++ [祈使句](祈使句.md)
++ [感叹句](感叹句.md)
 + 强调句
 + 并列句
 + 省略句
@@ -13,4 +13,4 @@
 + 复合句
 
 + [从句]
-    + [名词性从句](./noun-clauses.md)
+    + [名词性从句](./名词性从句.md)
