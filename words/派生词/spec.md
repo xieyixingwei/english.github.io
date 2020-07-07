@@ -1,5 +1,8 @@
-## `spec`
-## `specie` `['spiːʃɪ]`
+## spec
+
+## specie
+
+`['spiːʃɪ]`
 
 n.
 ===
@@ -21,4 +24,5 @@ n.
     - 中国的外来物种有1000多种。
     - There are more than 1,000 alien species in China.
 
-## `special`
+## special
+

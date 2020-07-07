@@ -4,5 +4,5 @@
 
 ### spec
 
-[spec](s-/spec.md)
+[spec](派生词/spec.md)
 
