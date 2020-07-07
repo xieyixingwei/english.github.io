@@ -9,7 +9,9 @@ n.
 
 - 硬币
 
-## `species` `['spiːʃiːz]`
+## species
+
+`['spiːʃiːz]`
 
 n.
 ===
