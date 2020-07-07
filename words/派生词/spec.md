@@ -4,27 +4,30 @@
 
 `['spiːʃɪ]`
 
-n.
-===
+### n.
 
-- 硬币
+1. 硬币
+===
 
 ## species
 
 `['spiːʃiːz]`
 
-n.
+### n.
+
+1. 类型
 ===
 
-- 类型
-    - 他戴着一种奇怪的帽子。
-    - He is wearing a strange species of hat.
+- 他戴着一种奇怪的帽子。
+- He is wearing a strange species of hat.
 
 [种类,类型](词义辨析/种类,类型.md)
 
-- 物种（单复同）
-    - 中国的外来物种有1000多种。
-    - There are more than 1,000 alien species in China.
+2. 物种（单复同）
+===
+
+- 中国的外来物种有1000多种。
+- There are more than 1,000 alien species in China.
 
 ## special
 
