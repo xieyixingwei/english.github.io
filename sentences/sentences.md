@@ -37,3 +37,27 @@
 - 没有啥能动摇他的决心————成为能流利讲英语的人！
 - Nothing `shake`s his `resolve` of being a `fluent` English speaker!
 
+- 自动化生产线大大地提高了生产效率。
+- The `automatic` production line `improve`s the working `efficiency` `greatly`.
+
+- 他们把一个人从人群里分离出来了。
+- They set one man apart from the rest.
+
+- 工人把箱子转移到另一个地方。
+- The worker `transfer`red the box to another place.
+
+- 世界上有成千上万种各不相同的鸟。
+- There are `tens of thousands of` different `species` of birds.
+- There are `thousands of` species of birds in the world.
+
+- 尽管风很大，这个记者仍然在户外工作。
+- `despite` the `windy` day, the `reporter` still worked outdoors.
+
+- 制作蛋糕需要在烘培前混合牛奶、鸡蛋、面粉和糖。
+- Making a `cake` `involve`s mixing milk, eggs, `flour` and sugar before `baking`.
+
+- 我的地产包括我的房子和这片森林的一部分。
+- my `estate` includes my house and part of the `forest`.
+
+- 占用公交车道是违法行为！
+- occupying a bus lane is illegal.
