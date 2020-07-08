@@ -10,5 +10,7 @@
 
 [Words](words/words.md)
 
-## 常用表达
+## 句子
+
+[Sentences](sentences/sentences.md)
 
