@@ -31,7 +31,7 @@
 - The docotor is `carefully` `treat`ing the `wound` on the little girl's `leg`.
 
 - 他代表他的国家参加了这次会议。
-- He `attend`ed the `conference` on `behalf` of his country.
+- He `attend`ed the `conference` **on behalf of** his country.
 - He `participate`d in this meeting on `behalf` of his country.
 
 - 没有啥能动摇他的决心————成为能流利讲英语的人！
