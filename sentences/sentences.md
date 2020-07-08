@@ -41,7 +41,10 @@
 - The `automatic` production line `improve`s the working `efficiency` `greatly`.
 
 - 他们把一个人从人群里分离出来了。
-- They set one man apart from the rest.
+- They `separate`d a person from the `crowd`.
+
+- 那两个孪生兄弟的性格相差很远。
+- The twin brothers are far `apart` in character.
 
 - 工人把箱子转移到另一个地方。
 - The worker `transfer`red the box to another place.
@@ -51,7 +54,7 @@
 - There are `thousands of` species of birds in the world.
 
 - 尽管风很大，这个记者仍然在户外工作。
-- `despite` the `windy` day, the `reporter` still worked outdoors.
+- `despite` the `windy` day, the `reporter` still worked `outdoors`.
 
 - 制作蛋糕需要在烘培前混合牛奶、鸡蛋、面粉和糖。
 - Making a `cake` `involve`s mixing milk, eggs, `flour` and sugar before `baking`.
@@ -60,4 +63,4 @@
 - my `estate` includes my house and part of the `forest`.
 
 - 占用公交车道是违法行为！
-- `occupy`ing a bus `lane` is illegal.
+- `occupy`ing a bus `lane` is `illegal`.
