@@ -60,4 +60,4 @@
 - my `estate` includes my house and part of the `forest`.
 
 - 占用公交车道是违法行为！
-- occupying a bus lane is illegal.
+- `occupy`ing a bus `lane` is illegal.
